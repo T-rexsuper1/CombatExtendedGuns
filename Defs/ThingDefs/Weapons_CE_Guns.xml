@@ -1015,8 +1015,8 @@
     <statBases>
       <WorkToMake>40500</WorkToMake>
       <SightsEfficiency>1</SightsEfficiency>
-      <ShotSpread>0.06</ShotSpread>
-      <SwayFactor>1.51</SwayFactor>
+      <ShotSpread>0.05</ShotSpread>
+      <SwayFactor>1.49</SwayFactor>
       <Bulk>14.05</Bulk>
       <Mass>10.50</Mass>
       <RangedWeapon_Cooldown>0.56</RangedWeapon_Cooldown>

@@ -45,7 +45,6 @@
 			<spawnedConceptLearnOpportunity>CE_MortarDirectFire</spawnedConceptLearnOpportunity>
 			<turretTopDrawSize>4</turretTopDrawSize>
 		</building>
-		<designatorDropdown>CE_HeavyMannedTurrets</designatorDropdown>
 		<placeWorkers>
 			<li>PlaceWorker_NotUnderRoof</li>
 			<li>PlaceWorker_TurretTop</li>

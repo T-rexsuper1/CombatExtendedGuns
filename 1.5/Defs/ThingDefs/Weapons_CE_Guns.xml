@@ -837,7 +837,7 @@
 		</statBases>
 		<costList>
 			<Steel>35</Steel>
-			<Wood>5</Wood>
+			<WoodLog>5</WoodLog>
 			<ComponentIndustrial>5</ComponentIndustrial>
 		</costList>
 		<verbs>

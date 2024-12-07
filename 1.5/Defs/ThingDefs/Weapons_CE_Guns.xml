@@ -710,7 +710,7 @@
 		</tools>
 		<modExtensions>
 			<li Class="CombatExtended.GunDrawExtension">
-				<DrawOffset>0.1,-0.1</DrawOffset>
+				<DrawOffset>0.1,0.0</DrawOffset>
 			</li>
 		</modExtensions>
 	</ThingDef>
@@ -1241,7 +1241,7 @@
 		</tools>
 		<modExtensions>
 			<li Class="CombatExtended.GunDrawExtension">
-				<DrawOffset>0.15,-0.06</DrawOffset>
+				<DrawOffset>0.15,0.0</DrawOffset>
 			</li>
 		</modExtensions>
 	</ThingDef>
@@ -1349,7 +1349,7 @@
 		</tools>
 		<modExtensions>
 			<li Class="CombatExtended.GunDrawExtension">
-				<DrawOffset>0.30,-0.05</DrawOffset>
+				<DrawOffset>0.30,0.0</DrawOffset>
 			</li>
 		</modExtensions>
 	</ThingDef>
@@ -1452,7 +1452,7 @@
 		</weaponTags>
 		<modExtensions>
 			<li Class="CombatExtended.GunDrawExtension">
-				<DrawOffset>0.3,-0.10</DrawOffset>
+				<DrawOffset>0.3,0.0</DrawOffset>
 			</li>
 		</modExtensions>
 	</ThingDef>
@@ -1564,7 +1564,7 @@
 		</tools>
 		<modExtensions>
 			<li Class="CombatExtended.GunDrawExtension">
-				<DrawOffset>0.12,-0.10</DrawOffset>
+				<DrawOffset>0.12,0.0</DrawOffset>
 			</li>
 		</modExtensions>
 	</ThingDef>
@@ -1679,7 +1679,7 @@
 		</tools>
 		<modExtensions>
 			<li Class="CombatExtended.GunDrawExtension">
-				<DrawOffset>0.12,-0.08</DrawOffset>
+				<DrawOffset>0.12,0.0</DrawOffset>
 			</li>
 		</modExtensions>
 	</ThingDef>
@@ -1791,7 +1791,7 @@
 		</tools>
 		<modExtensions>
 			<li Class="CombatExtended.GunDrawExtension">
-				<DrawOffset>0.12,-0.1</DrawOffset>
+				<DrawOffset>0.12,0.0</DrawOffset>
 			</li>
 		</modExtensions>
 	</ThingDef>
@@ -1906,7 +1906,7 @@
 		</tools>
 		<modExtensions>
 			<li Class="CombatExtended.GunDrawExtension">
-				<DrawOffset>0.12,-0.08</DrawOffset>
+				<DrawOffset>0.12,0.0</DrawOffset>
 			</li>
 		</modExtensions>
 	</ThingDef>
@@ -2100,7 +2100,7 @@
 		</tools>
 		<modExtensions>
 			<li Class="CombatExtended.GunDrawExtension">
-				<DrawOffset>0.0,-0.05</DrawOffset>
+				<DrawOffset>0.0,0.0</DrawOffset>
 				<DropCasingWhenReload>true</DropCasingWhenReload>
 				<AdvancedCasingVariables>true</AdvancedCasingVariables>
 				<CasingRotationRandomRange>20</CasingRotationRandomRange>
@@ -2211,7 +2211,7 @@
 		</tools>
 		<modExtensions>
 			<li Class="CombatExtended.GunDrawExtension">
-				<DrawOffset>0.05,-0.05</DrawOffset>
+				<DrawOffset>0.05,0.0</DrawOffset>
 			</li>
 		</modExtensions>
 	</ThingDef>
@@ -2441,7 +2441,7 @@
 		</tools>
 		<modExtensions>
 			<li Class="CombatExtended.GunDrawExtension">
-				<DrawOffset>0.00,-0.03</DrawOffset>
+				<DrawOffset>0.00,0.0</DrawOffset>
 			</li>
 		</modExtensions>
 	</ThingDef>
@@ -2557,7 +2557,7 @@
 		</tools>
 		<modExtensions>
 			<li Class="CombatExtended.GunDrawExtension">
-				<DrawOffset>0.12,-0.06</DrawOffset>
+				<DrawOffset>0.12,0.0</DrawOffset>
 			</li>
 		</modExtensions>
 	</ThingDef>
@@ -2679,7 +2679,7 @@
 		</tools>
 		<modExtensions>
 			<li Class="CombatExtended.GunDrawExtension">
-				<DrawOffset>0.10,-0.06</DrawOffset>
+				<DrawOffset>0.10,0.0</DrawOffset>
 			</li>
 		</modExtensions>
 	</ThingDef>
@@ -2796,7 +2796,7 @@
 		</tools>
 		<modExtensions>
 			<li Class="CombatExtended.GunDrawExtension">
-				<DrawOffset>0.20,-0.05</DrawOffset>
+				<DrawOffset>0.20,0.0</DrawOffset>
 			</li>
 		</modExtensions>
 	</ThingDef>

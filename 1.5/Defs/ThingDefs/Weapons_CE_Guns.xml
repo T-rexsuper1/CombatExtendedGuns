@@ -2152,7 +2152,7 @@
 				<defaultProjectile>Bullet_6x18mmCharged</defaultProjectile>
 				<warmupTime>0.5</warmupTime>
 				<range>16</range>
-				<soundCast>Shot_ChargeRifle</soundCast>
+				<soundCast>Shot_ChargeBlaster</soundCast>
 				<soundCastTail>GunTail_Light</soundCastTail>
 				<muzzleFlashScale>9</muzzleFlashScale>
 			</li>
@@ -2371,7 +2371,7 @@
 				<ticksBetweenBurstShots>4</ticksBetweenBurstShots>
 				<warmupTime>0.5</warmupTime>
 				<range>31</range>
-				<soundCast>Shot_ChargeRifle</soundCast>
+				<soundCast>Shot_ChargeBlaster</soundCast>
 				<soundCastTail>GunTail_Medium</soundCastTail>
 				<muzzleFlashScale>9</muzzleFlashScale>
 			</li>

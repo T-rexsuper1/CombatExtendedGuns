@@ -14,6 +14,7 @@ This mod adds several new firearms designed to take advantage of new CE mechanic
 - S-12 charge shotgun
 ### Assault/battle rifles
 - Winchester 94
+- SKS
 - SIG MCX
 - AKMS-U
 - AKM

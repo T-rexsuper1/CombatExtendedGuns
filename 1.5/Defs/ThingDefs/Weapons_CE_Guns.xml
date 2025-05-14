@@ -2231,6 +2231,7 @@
 			<Chemfuel>10</Chemfuel>
 		</costList>
 		<weaponTags Inherit="False">
+			<li>GunGrenadeLauncher</li>
 			<li>GunHeavy</li>
 			<li>CE_AI_AOE</li>
 		</weaponTags>
@@ -3035,8 +3036,7 @@
 			<Chemfuel>10</Chemfuel>
 		</costList>
 		<weaponTags Inherit="False">
-			<li>GunHeavy</li>
-			<li>CE_AI_AOE</li>
+			<li>Flamethrower</li>
 		</weaponTags>
 		<verbs>
 			<li Class="CombatExtended.VerbPropertiesCE">

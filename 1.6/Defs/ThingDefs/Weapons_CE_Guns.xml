@@ -2125,7 +2125,7 @@
 		<graphicData>
 			<texPath>Things/Weapons/RPG</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
-			<drawSize>1.45</drawSize>
+			<drawSize>(1.38,1.38)</drawSize>
 		</graphicData>
 		<soundInteract>Interact_Rifle</soundInteract>
 		<weaponClasses>

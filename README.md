@@ -10,6 +10,7 @@ This mod adds several new firearms designed to take advantage of new CE mechanic
 ### SMG's
 - S-6 charge SMG
 ### Shotguns
+- Sawed-off
 - USAS-12
 - S-12 charge shotgun
 ### Assault/battle rifles
